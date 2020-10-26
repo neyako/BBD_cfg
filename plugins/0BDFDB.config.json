@@ -1,0 +1,9 @@
+{
+	"changeLog": {
+		"version": "1.0.9"
+	},
+	"settings": {
+		"showSupportBadges": true,
+		"showToasts": true
+	}
+}

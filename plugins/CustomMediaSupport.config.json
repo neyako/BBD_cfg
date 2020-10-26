@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "embedding": true,
+        "api": true,
+        "loop": true,
+        "volume": 0.25,
+        "preload": true,
+        "autoplay": false,
+        "hoverPlay": false,
+        "controls": true,
+        "board": true,
+        "sadpanda": true,
+        "greentext": true,
+        "debug": false
+    }
+}

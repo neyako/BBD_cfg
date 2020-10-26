@@ -1,0 +1,56 @@
+{
+    "currentVersionInfo": {
+        "version": "1.3.0",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "accounts": [
+            {
+                "name": "Yoneko#0001",
+                "id": "592323195869331478",
+                "avatar": "https://cdn.discordapp.com/avatars/592323195869331478/108efdd80a4a4fbef30b6f60fbbf6a6d.png?size=128",
+                "keybind": [
+                    162,
+                    112
+                ],
+                "token": "85820b8e3ce48253468b456be9ca2e598e16072dd7483efd5cd81ea9039ee51b8f1bb382789dfec20a639ddf479751d4f8a1ead72c8727b66717f7d0cc84874a"
+            },
+            {
+                "name": "Sắn#9999",
+                "id": "652922528272089119",
+                "avatar": "https://cdn.discordapp.com/avatars/652922528272089119/a_6a67fd286f4e947bc75f837a48640c91.png?size=128",
+                "keybind": [
+                    163,
+                    112
+                ],
+                "token": "584196d2fac79acb2600c3f623d5b8faa172ff39c53d407066f619a1b104478e144b9c069a45db970b3de223e82b5aed522df0e469e731195a44b05a7cfc9cad"
+            },
+            {
+                "name": "yustill#0001",
+                "id": "699852100082991104",
+                "avatar": "https://cdn.discordapp.com/avatars/699852100082991104/f94437e9386eaf58fff37763e0d05016.png?size=128",
+                "keybind": [
+                    162,
+                    113
+                ],
+                "token": "c430b453e8867225ed8570359293b06d9fe846dc170d5314aaac78d4360f89ae9379fcf425e8b0a626ef5b912bc778baa878a53729c5095b0f5616fbb81c2754"
+            },
+            {
+                "name": "Shirashiko#0515",
+                "id": "753663591067942954",
+                "avatar": "https://cdn.discordapp.com/avatars/753663591067942954/3396019df34f0ac9442d33601f8bb6d0.png?size=128",
+                "keybind": [
+                    162,
+                    114
+                ],
+                "token": "429a7f24ecb93fe99f04b8e9000df920f9ef7b640eaa1c91a6be66a8ae5d9dacc977e075a657755495cf4b5aeffda52a515b950197a3f29eb34390999a35e80d"
+            }
+        ],
+        "encrypted": false,
+        "encTest": "test",
+        "pluginsToRestart": [
+            "AccountDetailsPlus",
+            "AutoStartRichPresence"
+        ]
+    }
+}
